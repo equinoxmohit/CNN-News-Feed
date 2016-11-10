@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Top Stories"
+        android:id="@+id/mnuTopStories" />
+    <item android:title="World News"
+        android:id="@+id/mnuWorld" />
+    <item android:title="Africa"
+        android:id="@+id/mnuAfrica" />
+    <item android:title="Americas"
+        android:id="@+id/mnuAmericas" />
+    <item android:title="Asia"
+        android:id="@+id/mnuAsia" />
+    <item android:title="Europe"
+        android:id="@+id/mnuEurope" />
+    <item android:title="Middle East"
+        android:id="@+id/mnuMiddleEast" />
+    <item android:title="United States"
+        android:id="@+id/mnuUs" />
+    <item android:title="Money"
+        android:id="@+id/mnuMoney" />
+    <item android:title="Technology "
+        android:id="@+id/mnuTechnology" />
+    <item android:title="Science"
+        android:id="@+id/mnuScience" />
+    <item android:title="Entertainment"
+        android:id="@+id/mnuEntertainment" />
+    <item android:title="World Sport"
+        android:id="@+id/mnuWorldSport" />
+    <item android:title="Football"
+        android:id="@+id/mnuFootball" />
+    <item android:title="Tennis"
+        android:id="@+id/mnuTennis" />
+    <item android:title="Travel"
+        android:id="@+id/mnuTravel" />
+    <item android:title="Refresh"
+        android:id="@+id/mnuRefresh" />
+</menu>
